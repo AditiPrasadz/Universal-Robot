@@ -9,8 +9,6 @@ This repository provides an guide on my work done with integrating the Universal
 - ROS-Melodic Implementation
 - RVIZ Visualization
 - OPC-UA Information Modelling using Siemens SiOME
-- Installation
-- Usage
 - Contributions
 
 ## Introduction
@@ -30,6 +28,5 @@ OPC-UA (Unified Architecture): Standard communication protocol widely used in in
 
 By implementing OPC-UA Information Modelling using Siemens SiOME, I created structured representation of the UR10 e-series tags, enabling seamless integration with PLC via TIA -Portal. This approach enables monitore the conformity of the robotic arm.
 
-
 ## Contributions
-Independant work! If you find any issues or have ideas to enhance the functionality, please open an issue or submit a pull
+Independant work! If you find any issues or have ideas to discuss to enhance the functionality, please open an issue or submit a pull
